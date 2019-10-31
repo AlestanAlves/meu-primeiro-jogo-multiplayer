@@ -1,5 +1,5 @@
 ports:
-  - port: 3000
+  - port: 9595
     onOpen: open-preview
 tasks:
   - before: cd playground/1st-proof-of-concept
