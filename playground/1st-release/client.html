@@ -32,6 +32,32 @@
 
             }
 
+            document.addEventListener('keydown', handleKeydown)
+
+            function handleKeydown(event) {
+                const keyPressed = event.key
+
+                if(keyPressed === 'ArrowUp') {
+                    console.log('up')
+                    return
+                }
+
+                if(keyPressed === 'ArrowDown') {
+                    console.log('down')
+                    return
+                }
+
+                if(keyPressed === 'ArrowRight') {
+                    console.log('Right')
+                    return
+                }
+
+                if(keyPressed === 'ArrowLeft') {
+                    console.log('Left')
+                    return
+                }
+            }
+
             renderScreen()
 
             function renderScreen() {
