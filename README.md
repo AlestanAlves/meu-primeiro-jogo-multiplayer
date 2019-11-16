@@ -25,3 +25,8 @@ Este é um projeto simples e pode ser desenvolvido em qualquer lugar, mas ultima
 
 | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115><br><sub>@filipedeschamps</sub>](https://github.com/filipedeschamps) |
 | :---: |
+
+## Se perguntar a cada linha de código
+
+### DE QUEM É ESSE CÓDIGO?
+Buscar saber as divisorias do seu componente e saber se um está acoplado a outro
