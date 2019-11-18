@@ -14,7 +14,7 @@ Mas antes de prosseguir, é extremamente importante você assistir esse vídeo i
 ## Como enviar o seu experimento
 Este é um projeto simples e pode ser desenvolvido em qualquer lugar, mas ultimamente estou utilizando uma IDE Online chamada **[Gitpod](https://gitpod.io)** e nela consigo deixar o ambiente **100% configurado** (tanto o frontend quanto o backend) para você apenas sentar e programar. Inclusive, eu vou reprogramar o jogo todo por dentro dela e para você programar também, basta seguir os passos abaixo:
 
-1. Caso você queira só futucar o código ou ver o jogo rodando, **[clique aqui](https://gitpod.io/#https://github.com/filipedeschamps/meu-primeiro-jogo-multiplayer)** para ele clonar o meu workspace com o meu repositório. O acesso ao Gitpod é gratuito e ele vai pedir para você se conectar com a conta do Github.
+1. Caso você queira só futucar o código ou ver o jogo rodando, **[clique aqui](https://gitpod.io/#https://github.com/AlestanAlves/meu-primeiro-jogo-multiplayer)** para ele clonar o meu workspace com o meu repositório. O acesso ao Gitpod é gratuito e ele vai pedir para você se conectar com a conta do Github.
 2. Caso queira desenvolver sua própria versão ou modificação, faça um `fork` deste repositório para dentro da sua conta no Github.
 3. Depois disso, simplesmente adicione `gitpod.io/#` na frente da URL do seu repositório para clonar o workspace já com este repositório do jogo rodando.
 4. Você vai encontrar dentro da pasta `playground` todos os experimentos, então crie uma pasta nova para colocar o seu experimento.
